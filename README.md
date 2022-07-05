@@ -1,5 +1,6 @@
 # Hello 👋, I am Artem 
 
+- I am owner and Cloud Solutions Architect at [Jamakase Labs](https://jamakase.com)
 - I am interested in web3 world and in cloud-native products
 
 ## 🛠 My Technology stack
