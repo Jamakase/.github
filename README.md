@@ -1,7 +1,7 @@
 # Hello 👋, I am Artem 
 
 - Specialized in building cloud-native apps
-- Fond of wearing many hats: project management, frontend, backend, devops, solutions architecture
+- Fond of wearing many hats: solutions architecture, cloudOps, devops, project management, frontend, backend
 - I am owner at [Jamakase Labs](https://jamakase.com)
 - I am interested in web3 world and in cloud-native products
 
