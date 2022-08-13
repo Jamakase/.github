@@ -1,9 +1,9 @@
 # Hello 👋, I am Artem 
 
-- Specialized in building cloud-native apps
-- Fond of wearing many hats: solutions architecture, cloudOps, devops, project management, frontend, backend
-- I am owner at [Jamakase Labs](https://jamakase.com)
-- I am interested in web3 world and in cloud-native products
+- 🤩 I am founder of [Jamakase Labs](https://jamakase.com)
+- 👨🏼‍💻 Software generalist with passion for building products from scratch with focus on high availability and scalability
+- 🎩 Fond of wearing many hats: solutions architecture, cloudOps, devops, project management, frontend, backend
+- 🏙 Interested in web3 world and cloud-native technologies
 
 ## 🛠 My Technology stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
